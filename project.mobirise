@@ -1,0 +1,727 @@
+{
+  "settings": {
+    "name": "github.com",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#6592e6",
+        "secondaryColor": "#ff6666",
+        "successColor": "#40b0bf",
+        "infoColor": "#47b5ed",
+        "warningColor": "#FFE161",
+        "dangerColor": "#ff9966",
+        "mainFont": "Jost",
+        "display1Font": "Jost",
+        "display1Size": 4.6,
+        "display2Font": "Jost",
+        "display2Size": 3,
+        "display5Font": "Jost",
+        "display5Size": 2.2,
+        "display7Font": "Jost",
+        "display7Size": 1.2,
+        "display4Font": "Jost",
+        "display4Size": 1.1,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#6e2c2c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.0.2",
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "uniqCompNum": 34,
+    "versionPublish": "5.5.2",
+    "imageResize": true,
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "mbrsiteDomain": "dlrrhvgttm",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "\nPrivacy Policy\n\nYour privacy is important to us. It is eat right's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, https://eatright.com, and other sites we own and operate.\n\n\nThis policy is effective as of 27 November 2021 and was last updated on 27 November 2021.\n\nInformation We Collect\n\nInformation we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services.\n\nLog Data\n\nWhen you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your device’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, other details about your visit, and technical details that occur in conjunction with any errors you may encounter.\n\n\nPlease be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons.\n\nPersonal Information\n\nWe may ask for personal information which may include one or more of the following:\n\n\nName\n\nLegitimate Reasons for Processing Your Personal Information\n\nWe only collect and use your personal information when we have a legitimate reason for doing so. In which instance, we only collect personal information that is reasonably necessary to provide our services to you.\n\nCollection and Use of Information\n\nWe may collect personal information from you when you do any of the following on our website:\n\n\nUse a mobile device or web browser to access our content\nContact us via email, social media, or on any similar technologies\nWhen you mention us on social media\n\n\nWe may collect, hold, use, and disclose information for the following purposes, and personal information will not be further processed in a manner that is incompatible with these purposes:\n\n\nWe may collect, hold, use, and disclose information for the following purposes, and personal information will not be further processed in a manner that is incompatible with these purposes:\n\n\nto enable you to customise or personalise your experience of our website\n\n\n\nPlease be aware that we may combine information we collect about you with general information or research data we receive from other trusted sources.\n\nSecurity of Your Personal Information\n\nWhen we collect and process personal information, and while we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification.\n\n\nAlthough we will do our best to protect the personal information you provide to us, we advise that no method of electronic transmission or storage is 100% secure, and no one can guarantee absolute data security. We will comply with laws applicable to us in respect of any data breach.\n\n\nYou are responsible for selecting any password and its overall security strength, ensuring the security of your own information within the bounds of our services.\n\nHow Long We Keep Your Personal Information\n\nWe keep your personal information only for as long as we need to. This time period may depend on what we are using your information for, in accordance with this privacy policy. If your personal information is no longer required, we will delete it or make it anonymous by removing all details that identify you.\n\n\nHowever, if necessary, we may retain your personal information for our compliance with a legal, accounting, or reporting obligation or for archiving purposes in the public interest, scientific, or historical research purposes or statistical purposes.\n\nDisclosure of Personal Information to Third Parties\n\nWe may disclose personal information to:\n\n\na parent, subsidiary, or affiliate of our company\nthird party service providers for the purpose of enabling them to provide their services, for example, IT service providers, data storage, hosting and server providers, advertisers, or analytics platforms\nour employees, contractors, and/or related entities\nour existing or potential agents or business partners\nsponsors or promoters of any competition, sweepstakes, or promotion we run\ncourts, tribunals, regulatory authorities, and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise, or defend our legal rights\nthird parties, including agents or sub-contractors, who assist us in providing information, products, services, or direct marketing to you\nthird parties to collect and process data\n\nInternational Transfers of Personal Information\n\nThe personal information we collect is stored and/or processed where we or our partners, affiliates, and third-party providers maintain facilities. Please be aware that the locations to which we store, process, or transfer your personal information may not have the same data protection laws as the country in which you initially provided the information. If we transfer your personal information to third parties in other countries: (i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this privacy policy.\n\nYour Rights and Controlling Your Personal Information\n\nYou always retain the right to withhold personal information from us, with the understanding that your experience of our website may be affected. We will not discriminate against you for exercising any of your rights over your personal information. If you do provide us with personal information you understand that we will collect, hold, use and disclose it in accordance with this privacy policy. You retain the right to request details of any personal information we hold about you.\n\n\nIf we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.\n\n\nIf you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time. We will provide you with the ability to unsubscribe from our email-database or opt out of communications. Please be aware we may need to request specific information from you to help us confirm your identity.\n\n\nIf you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant, or misleading, please contact us using the details provided in this privacy policy. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading, or out of date.\n\n\nIf you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.\n\nUse of Cookies\n\nWe use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified.\n\nLimits of Our Policy\n\nOur website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.\n\nChanges to This Policy\n\nAt our discretion, we may change our privacy policy to reflect updates to our business processes, current acceptable practices, or legislative or regulatory changes. If we decide to change this privacy policy, we will post the changes here at the same link by which you are accessing this privacy policy.\n\n\nIf required by law, we will get your permission or give you the opportunity to opt in to or opt out of, as applicable, any new uses of your personal information.\n\nContact Us\n\nFor any questions or concerns regarding your privacy, you may contact us using the following details:\n\n\nprivacy\nceazarbeeney6@gmail.com\n\n",
+      "textButton": "Agree"
+    },
+    "publishChangesOnly": true
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "color": "#4479d9"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content1\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"9\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/k8-swepcc0rm0u-unsplash-2000x3003.jpeg\" selected>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-md-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>DINNING AND WINNING</b></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\"></h4>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-b",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise5",
+          "_cid": "s48vaXqeL6",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".mbr-section-title": {
+              "color": "#4479d9"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#4479d9"
+            }
+          },
+          "_name": "header1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"5\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value selected>Left</option>\n            <option value=\"justify-content-center\">Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/michael-browning-mtqg1lwcuw0-unsplash-2000x1333.jpg\" selected>\n            <input type=\"color\" title=\"Color\" value=\"#fafafa\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fafafa\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\"><b>KITCHEN STAFFS</b></h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">\n                        Header Subtitle\n                    </h2>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">OUR FOODS ARE COOKED AND SERVED IN A VERY CLEAN ENVIRONMENT WHAT YOU SEE IS WHAT YOU GET.</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">ORDER NOW</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sQ03VbS2MU",
+          "_anchor": "header1-m",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center",
+              "color": "#4479d9"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content1\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"9\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1-1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-md-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>EAT RIGHT RESTAURANT.</b></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\">WE SPECIALIZE IN DIFFERENT KINDS OF FOODS SOLID[IYAN SEMO FRIED AND JOLLOF RICE AMALA E.T.C] FAST FOODS [NOODLES PIZZA PIES E.T.C]INCLUDING SOUP THAT GONNA SUILT YOUR TASTE WELL GARNISHED AND SPICED OUR MEATS ARE ALSO WELL COOKED AND PRESERVED[CHICKEN BROKOTO SNAIL BEEF AND ISIEWU E.T.C.WE ALSO INCLUDES WINES[RED WINES AND ACOHOLIC DRINKS]EVERYTHING NOT LISTED JUST MAKE A ORDER AND YOUR MEAL GONNA BE DELIVERED TO YOUR DOOR STEP YUMMY!. AVAILABLE 24HOURS THOU SERVICE HOUR IS LIMITED.</h4>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-d",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise5",
+          "_cid": "s48vrXhP0J",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = \"color\")": {
+              "background": "@bg-value"
+            },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)"
+            },
+            ".team-card": {
+              "margin-bottom": "2rem",
+              "transition": "all 0.3s",
+              "&:hover": {
+                "transform": "translateY(-10px)"
+              }
+            },
+            ".card-wrap": {
+              "background": "@cardBg",
+              "border-radius": "4px",
+              "@media (max-width: 991px)": {
+                "margin-bottom": "2rem"
+              },
+              ".image-wrap img": {
+                "width": "100%"
+              },
+              ".content-wrap": {
+                "@media (min-width: 768px)": {
+                  "padding": "2rem"
+                },
+                "@media (max-width: 767px)": {
+                  "padding": "1rem"
+                }
+              }
+            },
+            ".social-row": {
+              "text-align": "center",
+              ".soc-item": {
+                "display": "inline-block",
+                "text-align": "center",
+                "border-radius": "50%",
+                "margin-right": "0.6rem",
+                "margin-bottom": "1rem",
+                "padding": "0.5rem",
+                "border": "2px solid @socialIconColor",
+                "transition": "all 0.3s",
+                ".mbr-iconfont": {
+                  "transition": "all 0.3s",
+                  "display": "flex",
+                  "justify-content": "center",
+                  "align-content": "center",
+                  "color": "@socialIconColor",
+                  "font-size": "1.5rem"
+                },
+                "&:hover": {
+                  "background-color": "@socialIconColor",
+                  ".mbr-iconfont": {
+                    "color": "contrast(@socialIconColor)"
+                  }
+                }
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#4479d9",
+              "text-align": "center"
+            },
+            ".card-text, .mbr-section-btn, .social-row": {
+              "color": "#22a5e5",
+              "text-align": "left"
+            },
+            ".mbr-role, .social-row": {
+              "color": "#4479d9",
+              "text-align": "left"
+            },
+            ".card-title, .social-row": {
+              "text-align": "left"
+            }
+          },
+          "_name": "team1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"team1\" group=\"Team\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n        <input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <header>Card</header>\n        <input type=\"checkbox\" title=\"Name\" name=\"showName\" checked>\n        <input type=\"checkbox\" title=\"Role\" name=\"showRole\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showCardText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showCardButtons\">\n        <input type=\"color\" title=\"BG\" name=\"cardBg\" value=\"#ffffff\">\n        <header condition=\"showSocial\">Social</header>\n        <input type=\"checkbox\" title=\"Social\" name=\"showSocial\" checked>\n        <input type=\"range\" name=\"socialCount\" title=\"Count\" min=\"1\" max=\"5\" step=\"1\" value=\"3\" condition=\"showSocial\">\n        <input type=\"color\" title=\"Color\" name=\"socialIconColor\" value=\"#6592e6\" condition=\"showSocial\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#fafafa\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12\" mbr-if=\"showTitle || showSubtitle\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>CUSTOMERS REVIEW</b></h3>\n                <p class=\"mbr-section-subtitle mbr-fonts-style align-center mb-5\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-section-subtitle\">\n                    Meet our team\n                </p>\n            </div>\n            <div class=\"col-sm-6\" mbr-class=\"{'col-lg-3': cardsAmount == 4, 'col-lg-4': cardsAmount != 4}\">\n                <div class=\"card-wrap\">\n                    <div class=\"image-wrap\">\n                        <img src=\"../_images/people/team1.jpg\">\n                    </div>\n                    <div class=\"content-wrap\">\n                        <h5 class=\"mbr-section-title card-title mbr-fonts-style align-center m-0\" mbr-theme-style=\"display-4\" mbr-if=\"showName\" data-app-selector=\".card-title, .social-row\"><b>BEENEY</b></h5>\n                        <h6 class=\"mbr-role mbr-fonts-style align-center mb-3\" mbr-theme-style=\"display-4\" mbr-if=\"showRole\" data-app-selector=\".mbr-role, .social-row\"><b>MANAGER</b></h6>\n                        <p class=\"card-text mbr-fonts-style align-center\" data-app-selector=\".card-text, .mbr-section-btn, .social-row\" mbr-theme-style=\"display-7\" mbr-if=\"showCardText\">GOT MY DELICIOUS MEAL WITHIN HOURS OF ORDERING FROM ABUJA..\n                        </p>\n                        <div class=\"social-row display-7\" mbr-if=\"showSocial\">\n                            <div class=\"soc-item\">\n                                <a href=\"https://www.facebook.com/Mobirise/\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-facebook\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>1\">\n                                <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-twitter\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>2\">\n                                <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-instagram\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>3\">\n                                <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-youtube\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>4\">\n                                <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-telegram\"></span>\n                                </a>\n                            </div>\n                        </div>\n                        <div class=\"mbr-section-btn card-btn align-center\" mbr-buttons data-toolbar=\"-mbrBtnMove\" mbr-if=\"showCardButtons\" mbr-theme-style=\"display-4\">\n                            <a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">View\n                                Profile</a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-sm-6\" mbr-class=\"{'col-lg-3': cardsAmount == 4, 'col-lg-4': cardsAmount != 4}\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrap\">\n                    <div class=\"image-wrap\">\n                        <img src=\"@PROJECT_PATH@/assets/images/20210418-164812052-ios-575x767.jpg\" alt>\n                    </div>\n                    <div class=\"content-wrap\">\n                        <h5 class=\"mbr-section-title card-title mbr-fonts-style align-center m-0\" mbr-theme-style=\"display-5\" mbr-if=\"showName\" data-app-selector=\".card-title, .social-row\"><b>CEAZAR</b></h5>\n                        <h6 class=\"mbr-role mbr-fonts-style align-center mb-3\" mbr-theme-style=\"display-4\" mbr-if=\"showRole\" data-app-selector=\".mbr-role, .social-row\">ACTOR</h6>\n                        <p class=\"card-text mbr-fonts-style align-center\" data-app-selector=\".card-text, .mbr-section-btn, .social-row\" mbr-theme-style=\"display-7\" mbr-if=\"showCardText\">HAPPY WITH MY MEAL GET IT WITHIN&nbsp; A SHORT PERIOD LAGOS.\n                        </p>\n                        <div class=\"social-row display-7\" mbr-if=\"showSocial\">\n                            <div class=\"soc-item\">\n                                <a href=\"https://www.facebook.com/Mobirise/\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-facebook\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>1\">\n                                <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-twitter\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>2\">\n                                <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-instagram\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>3\">\n                                <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-youtube\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>4\">\n                                <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-telegram\"></span>\n                                </a>\n                            </div>\n                        </div>\n                        <div class=\"mbr-section-btn card-btn align-center\" mbr-buttons data-toolbar=\"-mbrBtnMove\" mbr-if=\"showCardButtons\" mbr-theme-style=\"display-4\">\n                            <a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">View\n                                Profile</a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-sm-6\" mbr-class=\"{'col-lg-3': cardsAmount == 4, 'col-lg-4': cardsAmount != 4}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrap\">\n                    <div class=\"image-wrap\">\n                        <img src=\"@PROJECT_PATH@/assets/images/20210405-103409000-ios-575x559.jpg\" alt>\n                    </div>\n                    <div class=\"content-wrap\">\n                        <h5 class=\"mbr-section-title card-title mbr-fonts-style align-center m-0\" mbr-theme-style=\"display-5\" mbr-if=\"showName\" data-app-selector=\".card-title, .social-row\"><b>OTEGA&nbsp;</b></h5>\n                        <h6 class=\"mbr-role mbr-fonts-style align-center mb-3\" mbr-theme-style=\"display-4\" mbr-if=\"showRole\" data-app-selector=\".mbr-role, .social-row\"><b>DOCTOR</b></h6>\n                        <p class=\"card-text mbr-fonts-style align-center\" data-app-selector=\".card-text, .mbr-section-btn, .social-row\" mbr-theme-style=\"display-7\" mbr-if=\"showCardText\">YUMMY YOUR FOOD IS THE BEST CANT WAIT TO HAVE MORE ABIA.\n                        </p>\n                        <div class=\"social-row display-7\" mbr-if=\"showSocial\">\n                            <div class=\"soc-item\">\n                                <a href=\"https://www.facebook.com/Mobirise/\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-facebook\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>1\">\n                                <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-twitter\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>2\">\n                                <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-instagram\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>3\">\n                                <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-youtube\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>4\">\n                                <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-telegram\"></span>\n                                </a>\n                            </div>\n                        </div>\n                        <div class=\"mbr-section-btn card-btn align-center\" mbr-buttons data-toolbar=\"-mbrBtnMove\" mbr-if=\"showCardButtons\" mbr-theme-style=\"display-4\">\n                            <a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">View\n                                Profile</a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-sm-6\" mbr-class=\"{'col-lg-3': cardsAmount == 4, 'col-lg-4': cardsAmount != 4}\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrap\">\n                    <div class=\"image-wrap\">\n                        <img src=\"../_images/people/team4.jpg\">\n                    </div>\n                    <div class=\"content-wrap\">\n                        <h5 class=\"mbr-section-title card-title mbr-fonts-style align-center m-0\" mbr-theme-style=\"display-5\" mbr-if=\"showName\" data-app-selector=\".card-title, .social-row\">\n                            <b>Helen Smith</b>\n                        </h5>\n                        <h6 class=\"mbr-role mbr-fonts-style align-center mb-3\" mbr-theme-style=\"display-4\" mbr-if=\"showRole\" data-app-selector=\".mbr-role, .social-row\">\n                            <b>Designer</b>\n                        </h6>\n                        <p class=\"card-text mbr-fonts-style align-center\" data-app-selector=\".card-text, .mbr-section-btn, .social-row\" mbr-theme-style=\"display-7\" mbr-if=\"showCardText\">\n                            Each theme in the Mobirise site builder contains a set of unique blocks.\n                        </p>\n                        <div class=\"social-row display-7\" mbr-if=\"showSocial\">\n                            <div class=\"soc-item\">\n                                <a href=\"https://www.facebook.com/Mobirise/\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-facebook\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>1\">\n                                <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-twitter\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>2\">\n                                <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-instagram\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>3\">\n                                <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-youtube\"></span>\n                                </a>\n                            </div>\n                            <div class=\"soc-item\" mbr-if=\"socialCount>4\">\n                                <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                    <span mbr-icon class=\"mbr-iconfont socicon socicon-telegram\"></span>\n                                </a>\n                            </div>\n                        </div>\n                        <div class=\"mbr-section-btn card-btn align-center\" mbr-buttons data-toolbar=\"-mbrBtnMove\" mbr-if=\"showCardButtons\" mbr-theme-style=\"display-4\">\n                            <a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">View\n                                Profile</a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sQ07rQMJk8",
+          "_anchor": "team1-n",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".image-wrapper": {
+              "display": "flex",
+              "align-items": "center"
+            },
+            ".card-wrapper": {
+              "margin-bottom": "2rem",
+              "@media (max-width: 991px)": {
+                "padding": "1rem 2rem"
+              },
+              "@media (min-width: 992px)": {
+                "padding": "2rem 4rem"
+              },
+              "display": "flex",
+              "border-radius": "4px",
+              "background": "@cardsBg"
+            },
+            ".mbr-iconfont": {
+              "font-size": "(@iconSize * 1rem)",
+              "padding-right": "1.5rem",
+              "color": "@primaryColor"
+            }
+          },
+          "_name": "contacts2",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"contacts2\" group=\"Contacts\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    <!---->\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Cards</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitleCards\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"range\" inline title=\"Icon Size\" name=\"iconSize\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"BG\" name=\"cardsBg\" value=\"#fafafa\">\n        <select title=\"Amount\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n        </select>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#cebfaf\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                <b>Contacts</b>\n            </h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n                Contacts Subtitle\n            </h4>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <div class=\"card col-12 col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"image-wrapper\">\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-phone mobi-mbri\"></span>\n                    </div>\n                    <div class=\"text-wrapper\">\n                        <h6 class=\"card-title mbr-fonts-style mb-1\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\" mbr-if=\"showTitleCards\">\n                            <b>Phone</b>\n                        </h6>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">09064834748</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"card col-12 col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"image-wrapper\">\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-letter mobi-mbri\"></span>\n                    </div>\n                    <div class=\"text-wrapper\">\n                        <h6 class=\"card-title mbr-fonts-style mb-1\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\" mbr-if=\"showTitleCards\">\n                            <b>Email</b>\n                        </h6>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">ceazarbeeney6@gmail.com</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"card col-12 col-md-6\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper\">\n                    <div class=\"image-wrapper\">\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-globe mobi-mbri\"></span>\n                    </div>\n                    <div class=\"text-wrapper\">\n                        <h6 class=\"card-title mbr-fonts-style mb-1\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\" mbr-if=\"showTitleCards\">\n                            <b>Address</b>\n                        </h6>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Available everywhere in 36states of NG</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"card col-12 col-md-6\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper\">\n                    <div class=\"image-wrapper\">\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-bulleted-list mobi-mbri\"></span>\n                    </div>\n                    <div class=\"text-wrapper\">\n                        <h6 class=\"card-title mbr-fonts-style mb-1\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\" mbr-if=\"showTitleCards\">\n                            <b>Working Hours</b>\n                        </h6>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">&nbsp; &nbsp; &nbsp; &nbsp;8am-10pm</p>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sQ0hLWbx6J",
+          "_anchor": "contacts2-t",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#232323"
+            },
+            ".btn": {
+              "width": "100%"
+            },
+            ".mbr-section-btn": {
+              "margin-bottom": "1.2rem"
+            }
+          },
+          "_name": "form1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background2.jpg\" parallax selected>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"col-lg-8 mx-auto mbr-form\">\n                <form action name=\"Form Name\" method=\"POST\" class=\"mbr-form form-with-styler\">\n                    <div class=\"row\">\n                        <div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thanks for filling\n                            out the form!</div>\n                        <div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">Oops...! some\n                            problem!</div>\n                    </div>\n                    <div class=\"dragArea row\">\n                        <div class=\"col-12\" mbr-if=\"showTitle\">\n                            <h1 class=\"mbr-section-title mb-4 mbr-fonts-style align-center\" mbr-theme-style=\"display-2\"><b>Get Meal Updates!</b>\n                            </h1>\n                        </div>\n                        <div class=\"col-12\">\n                            <p mbr-theme-style=\"display-7\" class=\"mbr-text mbr-fonts-style mb-5 align-center\" mbr-if=\"showText\">INCASE YOU WANNA GETS UPDATES ABOUT OUR AVAILABLE MEAL JUST ENTER YOUR NAME AND EMAIL AND SUBSCIBE.</p>\n                        </div>\n                        <div class=\"col-md col-12 form-group mb-3\" data-for=\"name\">\n                            <input type=\"text\" name=\"name\" placeholder=\"Name\" data-form-field=\"Name\" class=\"form-control\">\n                        </div>\n                        <div class=\"col-md col-12 form-group mb-3\" data-for=\"email\">\n                            <input type=\"email\" name=\"email\" placeholder=\"Email\" data-form-field=\"Email\" class=\"form-control\">\n                        </div>\n                        <div class=\"mbr-section-btn col-12 col-md-auto\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\"><a type=\"submit\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-cloud mbr-iconfont mbr-iconfont-btn\"></span>Subscribe</a></div>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sQ0jxwWg4z",
+          "_anchor": "form1-v",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = \"color\")": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)",
+              "& when (@overlay)": {
+                ".mbr-overlay": {
+                  "background": "@overlayColor",
+                  "opacity": "@overlayOpacity"
+                }
+              }
+            },
+            "img, .item-img": {
+              "width": "100%",
+              "& when (@autoSize)": {
+                "height": "100%",
+                "object-fit": "cover",
+                "& when (@showCardTitle)": {
+                  "height": "(@imageHeight * 100px)",
+                  "object-fit": "cover"
+                },
+                "& when (@showCardSubtitle)": {
+                  "height": "(@imageHeight * 100px)",
+                  "object-fit": "cover"
+                },
+                "& when (@showText)": {
+                  "height": "(@imageHeight * 100px)",
+                  "object-fit": "cover"
+                },
+                "& when (@showButtons)": {
+                  "height": "(@imageHeight * 100px)",
+                  "object-fit": "cover"
+                }
+              }
+            },
+            ".item:focus, span:focus": {
+              "outline": "none"
+            },
+            ".item": {
+              "cursor": "pointer",
+              "margin-bottom": "2rem"
+            },
+            "& when not (@spacing)": {
+              ".row": {
+                "margin-left": "0",
+                "margin-right": "0"
+              },
+              ".item": {
+                "padding": "0",
+                "margin": "0"
+              }
+            },
+            ".item-wrapper": {
+              "position": "relative",
+              "border-radius": "4px",
+              "background": "@cardsBg",
+              "height": "100%",
+              "display": "flex",
+              "flex-flow": "column nowrap",
+              "@media (min-width: 992px)": {
+                "& when (@showButtons)": {
+                  ".item-content": {
+                    "padding": "2rem 2rem 0"
+                  },
+                  ".item-footer": {
+                    "padding": "0 2rem 2rem"
+                  }
+                },
+                "& when not (@showButtons)": {
+                  ".item-content": {
+                    "padding": "2rem"
+                  }
+                }
+              },
+              "@media (max-width: 991px)": {
+                "& when (@showButtons)": {
+                  ".item-content": {
+                    "padding": "1rem 1rem 0"
+                  },
+                  ".item-footer": {
+                    "padding": "0 1rem 1rem"
+                  }
+                },
+                "& when not (@showButtons)": {
+                  ".item-content": {
+                    "padding": "1rem"
+                  }
+                }
+              }
+            },
+            ".mbr-section-btn": {
+              "margin-top": "auto !important"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left",
+              "color": "#4479d9"
+            },
+            ".item-title": {
+              "text-align": "left",
+              "color": "#6592e6"
+            },
+            ".item-subtitle": {
+              "text-align": "left",
+              "color": "#4479d9"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content1\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <select title=\"Columns\" name=\"cardsWidth\">\n            <option value=\"12\">1</option>\n            <option value=\"6\" selected>2</option>\n            <option value=\"4\">3</option>\n            <option value=\"3\">4</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"showTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\" checked>\n        <header>Cards</header>\n        <input type=\"checkbox\" name=\"autoSize\" title=\"Auto Size\" checked>\n        <input type=\"range\" name=\"imageHeight\" title=\"Height\" min=\"1\" max=\"5\" step=\"1\" value=\"4\" condition=\"autoSize && !(showButtons==false && showCardSubtitle==false && showCardTitle==false && showText==false)\">\n        <input type=\"checkbox\" title=\"Spacing\" name=\"spacing\" checked>\n        <input type=\"checkbox\" name=\"showCardTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showCardSubtitle\" title=\"Subtitle\" checked>\n        <input type=\"checkbox\" name=\"showText\" title=\"Text\" checked>\n        <input type=\"checkbox\" name=\"showButtons\" title=\"Buttons\">\n        <input type=\"color\" name=\"cardsBg\" title=\"BG\" value=\"#fafafa\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" required>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fafafa\" condition=\"overlay && bg.type == 'image'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type == 'image'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h4 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>Last News and Articles</b></h4>\n            <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Read the latest meal processing.</h5>\n        </div>\n        <div class=\"row mt-4\">\n            <div class=\"item features-image сol-12 col-md-6 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/20210225-182228965-ios-712x949.jpg\" alt title data-slide-to=\"0\" data-bs-slide-to=\"0\">\n                    </div>\n                    <div class=\"item-content\" mbr-if=\"showCardTitle || showCardSubtitle || showText || showButtons\">\n                        <h5 class=\"item-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".item-title\" mbr-if=\"showCardTitle\"><b>clam chowder</b></h5>\n                        <h6 class=\"item-subtitle mbr-fonts-style mt-1\" mbr-theme-style=\"display-1\" data-app-selector=\".item-subtitle\" mbr-if=\"showCardSubtitle\">&nbsp; &nbsp; foreign clam chowder now available</h6>\n                        <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\"></p>\n                    </div>\n                    <div class=\"mbr-section-btn item-footer mt-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-buttons mbr-theme-style=\"display-7\">\n                        <a href class=\"btn btn-primary item-btn\" target=\"_blank\" data-app-placeholder=\"Type Text\">Learn\n                            more</a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"item features-image сol-12 col-md-6 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/20210225-182235742-ios-768x1024.jpg\" alt title data-slide-to=\"1\" data-bs-slide-to=\"1\">\n                    </div>\n                    <div class=\"item-content\" mbr-if=\"showCardTitle || showCardSubtitle || showText || showButtons\">\n                        <h5 class=\"item-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".item-title\" mbr-if=\"showCardTitle\"><b>Gumbo</b></h5>\n                        <h6 class=\"item-subtitle mbr-fonts-style mt-1\" mbr-theme-style=\"display-7\" data-app-selector=\".item-subtitle\" mbr-if=\"showCardSubtitle\">YUM</h6>\n                        <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-text, .mbr-section-btn\">foreign Gumbo now available</p>\n                    </div>\n                    <div class=\"mbr-section-btn item-footer mt-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-buttons mbr-theme-style=\"display-7\">\n                        <a href class=\"btn btn-primary item-btn\" target=\"_blank\" data-app-placeholder=\"Type Text\">Learn\n                            more</a>\n                    </div>\n                </div>\n            </div><div class=\"item features-image сol-12 col-md-6 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/20210225-182234688-ios-1200x1600.jpg\" alt title data-slide-to=\"2\" data-bs-slide-to=\"2\">\n                    </div>\n                    <div class=\"item-content\" mbr-if=\"showCardTitle || showCardSubtitle || showText || showButtons\">\n                        <h5 class=\"item-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".item-title\" mbr-if=\"showCardTitle\"><b>Cakes &amp; Grits</b></h5>\n                        <h6 class=\"item-subtitle mbr-fonts-style mt-1\" mbr-theme-style=\"display-1\" data-app-selector=\".item-subtitle\" mbr-if=\"showCardSubtitle\">Foreign cakes &amp; Grits available</h6>\n                        <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\">!</p>\n                    </div>\n                    <div class=\"mbr-section-btn item-footer mt-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-buttons mbr-theme-style=\"display-7\">\n                        <a href class=\"btn btn-primary item-btn\" target=\"_blank\" data-app-placeholder=\"Type Text\">Learn\n                            more</a>\n                    </div>\n                </div>\n            </div>\n\n\n        </div>\n    </div>\n</section>",
+          "_cid": "sQ0jAQr21k",
+          "_anchor": "content1-w",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".socicon-bg-facebook": {
+              "background": "#1778f2",
+              "color": "contrast(#1778f2)",
+              "&:hover": {
+                "background": "darken(#1778f2, 10)"
+              }
+            },
+            ".socicon-bg-twitter": {
+              "background": "#1da1f2",
+              "color": "contrast(#1da1f2)",
+              "&:hover": {
+                "background": "darken(#1da1f2, 10)"
+              }
+            },
+            ".socicon-bg-vkontakte": {
+              "background": "#4680C2",
+              "color": "contrast(#4680c2)",
+              "&:hover": {
+                "background": "darken(#4680c2, 10)"
+              }
+            },
+            ".socicon-bg-odnoklassniki": {
+              "background": "#ee8208",
+              "color": "contrast(#ee8208)",
+              "&:hover": {
+                "background": "darken(#ee8208, 10)"
+              }
+            },
+            ".socicon-bg-pinterest": {
+              "background": "#e60023",
+              "color": "contrast(#e60023)",
+              "&:hover": {
+                "background": "darken(#e60023, 10)"
+              }
+            },
+            ".socicon-bg-mail": {
+              "background": "#005ff9",
+              "color": "contrast(#005ff9)",
+              "&:hover": {
+                "background": "darken(#005ff9, 10)"
+              }
+            },
+            ".btn-social": {
+              "font-size": "32px",
+              "border-radius": "50%",
+              "padding": "0",
+              "width": "55px",
+              "height": "55px",
+              "line-height": "55px",
+              "position": "relative",
+              "cursor": "pointer",
+              "transition": "all 0.3s ease-in-out",
+              "i": {
+                "top": "0",
+                "line-height": "55px",
+                "width": "55px"
+              },
+              "border": "none !important",
+              "& when (@squareIcons)": {
+                "border-radius": "0 !important"
+              }
+            },
+            "[class^=\"socicon-\"]:before, [class*=\" socicon-\"]:before": {
+              "line-height": "55px"
+            }
+          },
+          "_name": "share1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"social1\" group=\"Social\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" plugins=\"SocialLikes,Socicon\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Square Icons\" name=\"squareIcons\">\n        <header>It will share the current page</header>\n        <input type=\"checkbox\" title=\"Facebook\" name=\"facebook\" checked=\"\">\n        <input type=\"checkbox\" title=\"Twitter\" name=\"twitter\" checked=\"\">\n        <input type=\"checkbox\" title=\"Vkontakte\" name=\"vkontakte\" checked=\"\">\n        <input type=\"checkbox\" title=\"Odnoklassniki\" name=\"odnoklassniki\" checked=\"\">\n        <input type=\"checkbox\" title=\"Pinterest\" name=\"pinterest\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mailru\" name=\"mailru\" checked=\"\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected=\"\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\">\n                <h3 class=\"mbr-section-title mb-3 align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .mbr-social-likes\">\n                    <b>Share this Page!</b>\n                </h3>\n                <div>\n                    <div class=\"mbr-social-likes align-center\">\n                        <span mbr-if=\"facebook\" class=\"btn btn-social socicon-bg-facebook facebook m-2\">\n                            <i class=\"socicon socicon-facebook\"></i>\n                        </span>\n                        <span mbr-if=\"twitter\" class=\"btn btn-social twitter socicon-bg-twitter m-2\">\n                            <i class=\"socicon socicon-twitter\"></i>\n                        </span>\n                        <span mbr-if=\"vkontakte\" class=\"btn btn-social vkontakte socicon-bg-vkontakte m-2\">\n                            <i class=\"socicon socicon-vkontakte\"></i>\n                        </span>\n                        <span mbr-if=\"odnoklassniki\" class=\"btn btn-social odnoklassniki socicon-bg-odnoklassniki m-2\">\n                            <i class=\"socicon socicon-odnoklassniki\"></i>\n                        </span>\n                        <span mbr-if=\"pinterest\" class=\"btn btn-social pinterest socicon-bg-pinterest m-2\">\n                            <i class=\"socicon socicon-pinterest\"></i>\n                        </span>\n                        <span mbr-if=\"mailru\" class=\"btn btn-social mailru socicon-bg-mail m-2\">\n                            <i class=\"socicon socicon-mail\"></i>\n                        </span>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_cid": "sQ0ihZJX22",
+          "_anchor": "share1-u",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".media-container-row": {
+              "flex-direction": "column",
+              "justify-content": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "justify-content": "center",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            }
+          },
+          "_name": "footer3",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer3\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background8.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">YUM</li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">YUM</li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">YUM</li>\n                    \n                    \n                </ul>\n            </div>\n            <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                        </a>\n                    </div>\n                    \n                    \n                </div>\n            </div>\n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\">\n                    © Copyright 2020 Eat Right. All Rights Reserved.\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s48P1Icc8J",
+          "_anchor": "footer3-i",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "title": "privacy",
+        "order": 1,
+        "meta_descr": "\nPrivacy Policy\n\nYour privacy is important to us. It is eat right's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, https://eatright.com, and other sites we own and operate.\n\n\nThis policy is effective as of 27 November 2021 and was last updated on 27 November 2021.\n\nInformation We Collect\n\nInformation we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services.\n\nLog Data\n\nWhen you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your device’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, other details about your visit, and technical details that occur in conjunction with any errors you may encounter.\n\n\nPlease be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons.\n\nPersonal Information\n\nWe may ask for personal information which may include one or more of the following:\n\n\nName\n\nLegitimate Reasons for Processing Your Personal Information\n\nWe only collect and use your personal information when we have a legitimate reason for doing so. In which instance, we only collect personal information that is reasonably necessary to provide our services to you.\n\nCollection and Use of Information\n\nWe may collect personal information from you when you do any of the following on our website:\n\n\nUse a mobile device or web browser to access our content\nContact us via email, social media, or on any similar technologies\nWhen you mention us on social media\n\n\nWe may collect, hold, use, and disclose information for the following purposes, and personal information will not be further processed in a manner that is incompatible with these purposes:\n\n\nWe may collect, hold, use, and disclose information for the following purposes, and personal information will not be further processed in a manner that is incompatible with these purposes:\n\n\nto enable you to customise or personalise your experience of our website\n\n\n\nPlease be aware that we may combine information we collect about you with general information or research data we receive from other trusted sources.\n\nSecurity of Your Personal Information\n\nWhen we collect and process personal information, and while we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification.\n\n\nAlthough we will do our best to protect the personal information you provide to us, we advise that no method of electronic transmission or storage is 100% secure, and no one can guarantee absolute data security. We will comply with laws applicable to us in respect of any data breach.\n\n\nYou are responsible for selecting any password and its overall security strength, ensuring the security of your own information within the bounds of our services.\n\nHow Long We Keep Your Personal Information\n\nWe keep your personal information only for as long as we need to. This time period may depend on what we are using your information for, in accordance with this privacy policy. If your personal information is no longer required, we will delete it or make it anonymous by removing all details that identify you.\n\n\nHowever, if necessary, we may retain your personal information for our compliance with a legal, accounting, or reporting obligation or for archiving purposes in the public interest, scientific, or historical research purposes or statistical purposes.\n\nDisclosure of Personal Information to Third Parties\n\nWe may disclose personal information to:\n\n\na parent, subsidiary, or affiliate of our company\nthird party service providers for the purpose of enabling them to provide their services, for example, IT service providers, data storage, hosting and server providers, advertisers, or analytics platforms\nour employees, contractors, and/or related entities\nour existing or potential agents or business partners\nsponsors or promoters of any competition, sweepstakes, or promotion we run\ncourts, tribunals, regulatory authorities, and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise, or defend our legal rights\nthird parties, including agents or sub-contractors, who assist us in providing information, products, services, or direct marketing to you\nthird parties to collect and process data\n\nInternational Transfers of Personal Information\n\nThe personal information we collect is stored and/or processed where we or our partners, affiliates, and third-party providers maintain facilities. Please be aware that the locations to which we store, process, or transfer your personal information may not have the same data protection laws as the country in which you initially provided the information. If we transfer your personal information to third parties in other countries: (i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this privacy policy.\n\nYour Rights and Controlling Your Personal Information\n\nYou always retain the right to withhold personal information from us, with the understanding that your experience of our website may be affected. We will not discriminate against you for exercising any of your rights over your personal information. If you do provide us with personal information you understand that we will collect, hold, use and disclose it in accordance with this privacy policy. You retain the right to request details of any personal information we hold about you.\n\n\nIf we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.\n\n\nIf you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time. We will provide you with the ability to unsubscribe from our email-database or opt out of communications. Please be aware we may need to request specific information from you to help us confirm your identity.\n\n\nIf you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant, or misleading, please contact us using the details provided in this privacy policy. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading, or out of date.\n\n\nIf you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.\n\nUse of Cookies\n\nWe use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified.\n\nLimits of Our Policy\n\nOur website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.\n\nChanges to This Policy\n\nAt our discretion, we may change our privacy policy to reflect updates to our business processes, current acceptable practices, or legislative or regulatory changes. If we decide to change this privacy policy, we will post the changes here at the same link by which you are accessing this privacy policy.\n\n\nIf required by law, we will get your permission or give you the opportunity to opt in to or opt out of, as applicable, any new uses of your personal information.\n\nContact Us\n\nFor any questions or concerns regarding your privacy, you may contact us using the following details:\n\n\nprivacy\nceazarbeeney6@gmail.com\n\n"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".media-container-row": {
+              "flex-direction": "column",
+              "justify-content": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "justify-content": "center",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            }
+          },
+          "_name": "footer3",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer3\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background8.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">YUM</li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">YUM</li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">YUM</li>\n                    \n                    \n                </ul>\n            </div>\n            <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                        </a>\n                    </div>\n                    \n                    \n                </div>\n            </div>\n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\">\n                    © Copyright 2020 Eat Right. All Rights Reserved.\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s48P1Icc8J",
+          "_anchor": "footer3-x",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
